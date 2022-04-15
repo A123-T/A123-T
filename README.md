@@ -10,7 +10,7 @@
 ### 🤵 About Me:
 - 🏦 I'm a Student of NIT NAGALAND . 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.Android Development**,**.Kotlin**,**.Web Scrapping**,**.Automation**,**.Tkinter**,**.Django**,**.Python**,**.html**,**,**.html**,**.css**, **.javascript**, **.php**, **.sql**
+- 💻 I use daily **.Android Development**,**.Kotlin**,**.Web Scrapping**,**.Automation**,**.Tkinter**,**.Django**,**.Python**,**.html**,**.css**, **.javascript**, **.php**, **.sql**
 - 📖 I am currently a Student
 - 💬 Talk to me about cricket, php (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
