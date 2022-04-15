@@ -8,13 +8,13 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm a Software Engineer working in India 
+- 🏦 I'm a Student of NIT NAGALAND . 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.html**,**.css**, **.javascript**, **.php**, **.sql**
-- 📖 I am currently reading Engineer ECE
+- 📖 I am currently a Student
 - 💬 Talk to me about cricket, php (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: tune kya kar liya
+- ⚡ Fun fact: _____________________________
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
