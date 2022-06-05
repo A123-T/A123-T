@@ -1,5 +1,5 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<div class="tenor-gif-embed" data-postid="25754648" data-share-method="host" data-aspect-ratio="2.80702" data-width="100%"><a href="https://tenor.com/view/general-motors-gm-hummer-hummerev-electric-vehicle-gif-25754648">General Motors Gm Sticker</a>from <a href="https://tenor.com/search/general+motors-stickers">General Motors Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <p align="center">
 <a href="https://twitter.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pawanmeena"  height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in//" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pawanmeena" height="30" width="30" /></a>&nbsp;
